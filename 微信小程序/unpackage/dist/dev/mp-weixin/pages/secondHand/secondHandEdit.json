@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "二手交易",
+  "usingComponents": {
+    "u-tag": "/uni_modules/vk-uview-ui/components/u-tag/u-tag",
+    "u-upload": "/uni_modules/vk-uview-ui/components/u-upload/u-upload",
+    "u-button": "/uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-picker": "/uni_modules/vk-uview-ui/components/u-picker/u-picker"
+  }
+}

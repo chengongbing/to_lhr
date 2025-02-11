@@ -1,0 +1,61 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/my/my",
+    "pages/assistance/assistance",
+    "pages/secondHand/secondHand",
+    "pages/forum/forum",
+    "pages/register/register",
+    "pages/PersonalInfo/PersonalInfo",
+    "pages/secondHand/secondHandManage",
+    "pages/secondHand/mySale",
+    "pages/secondHand/secondHandEdit",
+    "pages/secondHand/secondHandAdd",
+    "pages/assistance/assistanceAdd",
+    "pages/assistance/assistanceEdit",
+    "pages/assistance/assistanceManage",
+    "pages/forum/reply",
+    "pages/secondHand/favorite",
+    "pages/forum/forumManage"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "校园互助平台",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#7A7E83",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/tabbar/3.1我的.png",
+        "selectedIconPath": "static/tabbar/3.1我的-选中.png"
+      },
+      {
+        "pagePath": "pages/assistance/assistance",
+        "text": "校园互助",
+        "iconPath": "static/tabbar/互助.png",
+        "selectedIconPath": "static/tabbar/互助-选中.png"
+      },
+      {
+        "pagePath": "pages/secondHand/secondHand",
+        "text": "二手交易",
+        "iconPath": "static/tabbar/二手回收.png",
+        "selectedIconPath": "static/tabbar/二手回收-选中.png"
+      },
+      {
+        "pagePath": "pages/forum/forum",
+        "text": "校园论坛",
+        "iconPath": "static/tabbar/论坛.png",
+        "selectedIconPath": "static/tabbar/论坛-选中.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

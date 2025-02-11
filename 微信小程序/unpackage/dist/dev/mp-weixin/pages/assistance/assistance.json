@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "校园互助",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-input": "/uni_modules/vk-uview-ui/components/u-input/u-input",
+    "u-button": "/uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-tabs-swiper": "/uni_modules/vk-uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "u-icon": "/uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-popup": "/uni_modules/vk-uview-ui/components/u-popup/u-popup",
+    "u-cell-group": "/uni_modules/vk-uview-ui/components/u-cell-group/u-cell-group"
+  }
+}

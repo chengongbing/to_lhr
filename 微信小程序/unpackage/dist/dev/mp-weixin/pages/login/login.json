@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-field": "/uni_modules/vk-uview-ui/components/u-field/u-field"
+  }
+}

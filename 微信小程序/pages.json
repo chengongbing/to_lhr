@@ -1,0 +1,169 @@
+{
+	"pages": [{
+			"path": "pages/login/login",
+			"style": {
+				"app-plus": {
+					"titleNView": false,
+					"scrollIndicator": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"enablePullDownRefresh": false,
+				"navigationBarTitleText": "我的",
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/assistance/assistance",
+			"style": {
+				"navigationBarTitleText": "校园互助",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/secondHand/secondHand",
+			"style": {
+				"navigationBarTitleText": "二手交易",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/forum/forum",
+			"style": {
+				"navigationBarTitleText": "校园论坛",
+				"enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFFFFF"
+			}
+		},
+		{
+			"path": "pages/register/register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/PersonalInfo/PersonalInfo",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/secondHand/secondHandManage",
+			"style": {
+				"navigationBarTitleText": "二手交易"
+			}
+		},
+		{
+			"path": "pages/secondHand/mySale",
+			"style": {
+				"navigationBarTitleText": "我的出售"
+			}
+		},
+		{
+			"path": "pages/secondHand/secondHandEdit",
+			"style": {
+				"navigationBarTitleText": "二手交易"
+			}
+		},
+		{
+			"path": "pages/secondHand/secondHandAdd",
+			"style": {
+				"navigationBarTitleText": "商品发布"
+			}
+		},
+		{
+			"path": "pages/assistance/assistanceAdd",
+			"style": {
+				"navigationBarTitleText": "互助发布"
+			}
+		},
+		{
+			"path": "pages/assistance/assistanceEdit",
+			"style": {
+				"navigationBarTitleText": "互助编辑"
+			}
+		},
+		{
+			"path": "pages/assistance/assistanceManage",
+			"style": {
+				"navigationBarTitleText": "互助管理"
+			}
+		},
+		{
+			"path": "pages/forum/reply",
+			"style": {
+				"navigationBarTitleText": "回复"
+			}
+		},
+		{
+			"path": "pages/secondHand/favorite",
+			"style": {
+				"navigationBarTitleText": "我的收藏"
+			}
+		},
+		{
+			"path": "pages/forum/forumManage",
+			"style": {
+				"navigationBarTitleText": "我的论坛"
+			}
+		}
+		
+		
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "校园互助平台",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#7A7E83",
+		"borderStyle": "black",
+		"list": [
+			// {
+			// 	"pagePath": "pages/index/index",
+			// 	"text": "首页",
+			// 	"iconPath": "static/tabbar/3.1首页.png",
+			// 	"selectedIconPath": "static/tabbar/3.1首页-选中.png"
+			// },
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/tabbar/3.1我的.png",
+				"selectedIconPath": "static/tabbar/3.1我的-选中.png"
+			},
+			{
+				"pagePath": "pages/assistance/assistance",
+				"text": "校园互助",
+				"iconPath": "static/tabbar/互助.png",
+				"selectedIconPath": "static/tabbar/互助-选中.png"
+			},
+			{
+				"pagePath": "pages/secondHand/secondHand",
+				"text": "二手交易",
+				"iconPath": "static/tabbar/二手回收.png",
+				"selectedIconPath": "static/tabbar/二手回收-选中.png"
+			},
+			{
+				"pagePath": "pages/forum/forum",
+				"text": "校园论坛",
+				"iconPath": "static/tabbar/论坛.png",
+				"selectedIconPath": "static/tabbar/论坛-选中.png"
+			}
+		]
+	}
+}

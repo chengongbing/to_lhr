@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "u-upload": "/uni_modules/vk-uview-ui/components/u-upload/u-upload"
+  }
+}

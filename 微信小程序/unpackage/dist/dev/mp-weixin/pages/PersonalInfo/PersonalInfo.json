@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人信息",
+  "usingComponents": {
+    "u-icon": "/uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-upload": "/uni_modules/vk-uview-ui/components/u-upload/u-upload",
+    "u-cell-group": "/uni_modules/vk-uview-ui/components/u-cell-group/u-cell-group",
+    "u-button": "/uni_modules/vk-uview-ui/components/u-button/u-button"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "enablePullDownRefresh": false,
+  "navigationBarTitleText": "我的",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "u-notice-bar": "/uni_modules/vk-uview-ui/components/u-notice-bar/u-notice-bar",
+    "u-avatar": "/uni_modules/vk-uview-ui/components/u-avatar/u-avatar",
+    "u-cell-group": "/uni_modules/vk-uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell-item": "/uni_modules/vk-uview-ui/components/u-cell-item/u-cell-item",
+    "u-button": "/uni_modules/vk-uview-ui/components/u-button/u-button"
+  }
+}
